@@ -1,93 +1,99 @@
-# 👋 Hi, I'm Margaret Wanjiku!
+# 🗂️ VA Operations Portfolio — Margaret Wanjiku
 
-**Business Operations Professional | Virtual Assistant | Data Analyst | Lead Generation Specialist**
+**Virtual Assistant | Operations Coordinator | Executive Support**
 
-📍 Kilifi, Kenya | 🌍 Open to Remote Opportunities Worldwide
-📧 margaretwanjiku438@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/margaret-wanjiku-2a6b7224a)
-
----
-
-## 🚀 About Me
-
-I am a results-driven Business Operations professional and Data Analyst with **7+ years of hands-on experience** across hospitality, retail, and operations environments in Kenya.
-
-What makes me different is simple: **I understand the business behind the data.**
-
-Before I ever touched an analytics tool, I was managing P&L statements, leading teams of 10+, coordinating vendors, scheduling executive meetings, and making real operational decisions under pressure. That business context makes everything I do — whether it's building a dashboard, running an operation, or generating leads — sharper and more impactful.
+📍 Kilifi, Kenya | 🌍 Open to Remote Opportunities
+📧 margaretwanjiku438@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/margaret-wanjiku-2a6b7224a)
 
 ---
 
-## 💼 What I Do
+## 👋 About This Portfolio
 
-### 🗂️ Virtual Assistant & Operations
-- Executive calendar & communications management
-- CRM administration & data management
-- SOP creation & process documentation
-- Vendor coordination & contract management
-- KPI reporting & operational dashboards
-- Onboarding & training coordination
+This folder contains real work samples demonstrating my Virtual Assistant and Operations Coordinator skills. Each file represents the kind of work I deliver daily for business owners, executives, and leadership teams.
 
-### 🎯 Lead Generation
-- B2B contact research & list building
-- Email finding & verification (Apollo.io)
-- LinkedIn prospecting & outreach
-- Data cleaning & CRM upload
-- Campaign tracking & reporting
-
-### 📊 Data Analytics
-- SQL — multi-table queries, JOINs, subqueries
-- Python — Pandas, Matplotlib, Seaborn
-- Power BI — interactive dashboards
-- Advanced Excel — Pivot Tables, XLOOKUP, Dashboards
-- IBM Cognos Analytics
+With **7+ years of hands-on experience** in operations, scheduling, and administrative coordination — I don't just support businesses, I help them run better.
 
 ---
 
-## 📁 My Repositories
+## 📁 What's Inside
 
-| Repository | What's Inside |
+### 1. 📋 Standard Operating Procedure (SOP) Template
+**File:** `SOP-Template.docx`
+
+A professionally structured SOP demonstrating my ability to:
+- Document operational processes clearly and consistently
+- Create step-by-step procedures any team member can follow
+- Maintain operational consistency across departments
+- Keep documentation organized and audit-ready
+
+> *This is the kind of SOP I build for clients to eliminate guesswork and ensure nothing falls through the cracks.*
+
+---
+
+### 2. 📊 Client Tracker
+**File:** `Client-Tracker.xlsx`
+
+A fully functional client management tracker demonstrating my ability to:
+- Build organized CRM-style systems from scratch
+- Track client status, follow-ups, and deadlines in real time
+- Maintain clean, accurate data across all records
+- Give leadership instant visibility into pipeline status
+
+> *Built in Excel with clean formatting, dropdown statuses, and colour-coded follow-up flags.*
+
+---
+
+### 3. 🗺️ Travel Itinerary Sample
+**File:** `Travel-Itinerary-Sample.docx`
+
+A detailed executive travel itinerary demonstrating my ability to:
+- Coordinate complex travel logistics end-to-end
+- Organize flights, accommodation, transport, and meetings in one clear document
+- Anticipate leadership needs before they arise
+- Communicate travel details clearly and professionally
+
+> *This sample reflects the attention to detail and proactive planning I bring to every executive support task.*
+
+---
+
+## 🛠️ Tools I Use Daily
+
+| Category | Tools |
 |---|---|
-| 🗂️ [va-operations-portfolio](/) | SOP templates, client trackers, travel itineraries |
-| 🎯 [lead-generation-portfolio](/) | Verified B2B lead lists & research samples |
-| 📊 Data Analytics Projects | Healthcare, HR, Marketing & E-commerce dashboards |
+| **Productivity** | Google Workspace, Microsoft Office, Notion |
+| **Project Management** | Monday.com, Trello, ClickUp |
+| **CRM** | ZOHO CRM, Monday.com |
+| **Communication** | Slack, Microsoft Teams, Zoom |
+| **Design** | Canva |
+| **Reporting** | Advanced Excel, Power BI |
+| **AI Tools** | ChatGPT, Claude AI |
 
 ---
 
-## 🛠️ Tools & Technologies
+## 💼 What I Can Do For You
 
-**Operations & VA**
-`Monday.com` `Trello` `Notion` `ZOHO CRM` `Google Workspace` `Microsoft Office`
-`Slack` `Teams` `Zoom` `Calendly` `Canva` `Buffer` `WordPress`
-
-**Lead Generation**
-`Apollo.io` `Hunter.io` `LinkedIn Sales Navigator`
-
-**Data Analytics**
-`SQL` `Python` `Pandas` `Matplotlib` `Seaborn` `Power BI` `Excel` `IBM Cognos`
-
-**AI Tools**
-`ChatGPT` `Claude AI`
+✅ Calendar & schedule management
+✅ Email inbox management & follow-ups
+✅ CRM data entry & management
+✅ SOP creation & process documentation
+✅ Research & executive summaries
+✅ Data entry & record keeping
+✅ Travel coordination & logistics
+✅ KPI reporting & dashboards
+✅ Onboarding & training coordination
+✅ Cross-department coordination
 
 ---
 
-## 🏆 Certifications
+## 📬 Let's Work Together!
 
-- 🏅 **IBM Data Analyst Professional Certificate** — IBM / Coursera (2025)
-- 🏅 **Certified Virtual Assistant Professional**
-- 🏅 **Forage Virtual Experience Programs** — Data Analytics & Business Operations
+If you're a business owner or executive spending too much time on admin tasks — I can help!
 
----
+📧 **margaretwanjiku438@gmail.com**
+🔗 **[LinkedIn — Margaret Wanjiku](https://www.linkedin.com/in/margaret-wanjiku-2a6b7224a)**
+📞 **+254 729 570308**
 
-## 📬 Let's Connect!
+> *Available for remote VA, Operations Coordinator, Executive Assistant, and Business Operations roles.*
 
-I'm open to:
-- 🎯 Remote VA & Executive Assistant roles
-- 📊 Data Analyst & Operations Analyst roles
-- 🏢 Operations Coordinator & Business Operations roles
-- 💼 Freelance lead generation & research projects
 
-**📧 margaretwanjiku438@gmail.com**
-**🔗 [LinkedIn](https://www.linkedin.com/in/margaret-wanjiku-2a6b7224a)**
-**📞 +254 729 570308**
 
