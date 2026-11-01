@@ -55,6 +55,8 @@ A detailed executive travel itinerary demonstrating my ability to:
 > *This sample reflects the attention to detail and proactive planning I bring to every executive support task.*
 
 ---
+### 4. 🛠️ Tools Samples
+Sample Trello board showing client onboarding and weekly operations workflow. See the `tools-samples` folder.
 
 ## 🛠️ Tools I Use Daily
 
