@@ -29,7 +29,17 @@ A sample Trello board showing how I manage client onboarding and weekly operatio
 ---
 
 ## 📅 Calendly: Scheduling Setup
-*Coming soon*
+
+A sample scheduling setup showing how clients can book calls with me without back-and-forth emails.
+
+**How it's set up**
+- Two event types: a 15-Min Discovery Call and a 30-Min Onboarding Call, both one-on-one on Google Meet
+- Availability set in East Africa Time, with Google Calendar connected to prevent double bookings
+- A short description on the booking page, so clients know what the call is for
+
+| Event types | Booking page |
+|---|---|
+| ![Event types](calendly-event-types.png) | ![Booking page](calendly-booking-page.png) |
 
 ---
 
