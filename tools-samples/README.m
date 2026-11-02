@@ -36,6 +36,8 @@ A sample scheduling setup showing how clients can book calls with me without bac
 - Two event types: a 15-Min Discovery Call and a 30-Min Onboarding Call, both one-on-one on Google Meet
 - Availability set in East Africa Time, with Google Calendar connected to prevent double bookings
 - A short description on the booking page, so clients know what the call is for
+- Bookings open 60 days ahead, with at least 4 hours' notice, so I'm never booked at short notice
+- One-on-one events only, so each slot goes to a single client
 
 | Event types | Booking page |
 |---|---|
